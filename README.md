@@ -50,3 +50,6 @@ You'll need a free Anthropic API key: https://console.anthropic.com
 4. Read the results, update your CV on the easy wins, decide if the gaps are dealbreakers
 
 That's it. No sign up, no data stored, everything runs locally.
+
+## License
+This software is currently not licensed for commercial use. If you’d like to use this in a business setting or install it professionally, please contact me at cw4444@gmail.com

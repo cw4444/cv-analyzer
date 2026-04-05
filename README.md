@@ -51,7 +51,3 @@ You'll need a free Anthropic API key: https://console.anthropic.com
 
 That's it. No sign up, no data stored, everything runs locally.
 
-## License
-This project is proprietary. You may not use, copy, modify, redistribute, deploy, or install it for commercial or client use without prior written permission.
-
-Commercial licenses are available. For business use, professional installation, or deployment enquiries, contact me
